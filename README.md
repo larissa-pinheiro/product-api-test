@@ -69,7 +69,7 @@ DB_DATABASE=nome_do_banco
 4. Acesse a documentação da API (Swagger) no endereço:
 
     ```
-    http://localhost:3000/swagger
+    http://localhost:4000/swagger
     ```
 
 ## Testes  
